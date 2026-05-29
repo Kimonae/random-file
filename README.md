@@ -108,8 +108,6 @@ Le moteur de tirage exclut explicitement les fichiers exécutables
 
 Les dossiers système sont ignorés pour éviter les faux positifs 
 
-Le script peut être packagé en .exe pour éviter la modification accidentelle 
-
 Recommandé : exécuter dans un environnement utilisateur standard (pas admin) 
 
  
